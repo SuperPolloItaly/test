@@ -1,0 +1,18 @@
+{
+    "login": {
+        "img": "img/zap_login.png",
+        "url": "https://store.andromeda-hosting.com/index.php"
+    },
+    "main": {
+        "img": "img/zap_main.png",
+        "url": "https://store.andromeda-hosting.com/index.php"
+    },
+    "loginZap": {
+        "img": "img/zap_login.png",
+        "url": "https://store.andromeda-hosting.com/index.php"
+    },
+    "mainZap": {
+        "img": "img/zap_main.png",
+        "url": "https://store.andromeda-hosting.com/index.php"
+    }
+}
