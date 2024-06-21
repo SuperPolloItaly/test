@@ -1,18 +1,18 @@
 {
     "login": {
         "img": "img/zap_login.png",
-        "url": "https://store.andromeda-hosting.com/index.php"
+        "url": "https://www.andromeda-hosting.com/"
     },
     "main": {
         "img": "img/zap_main.png",
-        "url": "https://store.andromeda-hosting.com/index.php"
+        "url": "https://www.andromeda-hosting.com/"
     },
     "loginZap": {
         "img": "img/zap_login.png",
-        "url": "https://store.andromeda-hosting.com/index.php"
+        "url": "https://www.andromeda-hosting.com/"
     },
     "mainZap": {
         "img": "img/zap_main.png",
-        "url": "https://store.andromeda-hosting.com/index.php"
+        "url": "https://www.andromeda-hosting.com/"
     }
 }
