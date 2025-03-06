@@ -1,0 +1,34 @@
+[
+  {
+    "date": "December 15, 2023",
+    "type": "feature",
+    "title": "New Games Added",
+    "description": "Introducing two exciting new games: Tower and Upgrader",
+    "icon": "IoRocketOutline",
+    "badge": "New Feature"
+  },
+  {
+    "date": "December 14, 2023",
+    "type": "improvement",
+    "title": "Performance Improvements",
+    "description": "Optimized site loading speed and game animations",
+    "icon": "IoCheckmarkCircle",
+    "badge": "Improvement"
+  },
+  {
+    "date": "December 13, 2023",
+    "type": "bugfix",
+    "title": "Bug Fixes",
+    "description": "Fixed various issues with deposit system and chat",
+    "icon": "FaBug",
+    "badge": "Bug Fix"
+  },
+  {
+    "date": "December 12, 2023",
+    "type": "maintenance",
+    "title": "System Maintenance",
+    "description": "Server maintenance and security updates",
+    "icon": "FaTools",
+    "badge": "Maintenance"
+  }
+]
