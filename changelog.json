@@ -1,6 +1,6 @@
 [
   {
-    "date": "December 15, 2023",
+    "date": "0.8 (December 15, 2023)",
     "type": "feature",
     "title": "New Games Added TEST",
     "description": "Introducing two exciting new games: Tower and Upgrader",
@@ -8,7 +8,7 @@
     "badge": "New Feature"
   },
   {
-    "date": "December 14, 2023",
+    "date": "0.8 (December 15, 2023)",
     "type": "improvement",
     "title": "Performance Improvements",
     "description": "Optimized site loading speed and game animations",
@@ -16,7 +16,7 @@
     "badge": "Improvement"
   },
   {
-    "date": "December 13, 2023",
+      "date": "0.8 (December 15, 2023)",
     "type": "bugfix",
     "title": "Bug Fixes",
     "description": "Fixed various issues with deposit system and chat",
@@ -24,7 +24,7 @@
     "badge": "Bug Fix"
   },
   {
-    "date": "December 12, 2023",
+     "date": "0.8 (December 15, 2023)",
     "type": "maintenance",
     "title": "System Maintenance",
     "description": "Server maintenance and security updates",
