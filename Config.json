@@ -8,7 +8,7 @@
   "Background": {
     "IsImage": false,
     "IsVideo": true,
-    "IsYouTube": false,
+    "IsYouTube": true,
     "Path": "config/Background/background.mp4",
     "VideoId": "FND0z4NF8Pg&t=8s"
   }
