@@ -5,7 +5,8 @@
     "title": "New Games Added TEST",
     "description": "Introducing two exciting new games: Tower and Upgrader",
     "icon": "IoRocketOutline",
-    "badge": "New Feature"
+    "badge": "New Feature",
+    "detailedContent": "# h1 Heading\n## h2 Heading\n### h3 Heading\n#### h4 Heading\n##### h5 Heading\n###### h6 Heading"
   },
   {
     "date": "0.8 (December 15, 2023)",
@@ -13,7 +14,8 @@
     "title": "Performance Improvements",
     "description": "Optimized site loading speed and game animations",
     "icon": "IoCheckmarkCircle",
-    "badge": "Improvement"
+    "badge": "Improvement",
+        "detailedContent": "# h1 Heading\n## h2 Heading\n### h3 Heading\n#### h4 Heading\n##### h5 Heading\n###### h6 Heading"
   },
     {
     "date": "0.8 (December 15, 2023)",
@@ -21,7 +23,8 @@
     "title": "New Games Added TEST",
     "description": "Introducing two exciting new games: Tower and Upgrader",
     "icon": "IoRocketOutline",
-    "badge": "New Feature"
+    "badge": "New Feature",
+          "detailedContent": "# h1 Heading\n## h2 Heading\n### h3 Heading\n#### h4 Heading\n##### h5 Heading\n###### h6 Heading"
   },
   {
       "date": "0.8 (December 15, 2023)",
@@ -29,7 +32,8 @@
     "title": "Bug Fixes",
     "description": "Fixed various issues with deposit system and chat",
     "icon": "FaBug",
-    "badge": "Bug Fix"
+    "badge": "Bug Fix",
+        "detailedContent": "# h1 Heading\n## h2 Heading\n### h3 Heading\n#### h4 Heading\n##### h5 Heading\n###### h6 Heading"
   },
   {
      "date": "0.8 (December 15, 2023)",
@@ -37,6 +41,7 @@
     "title": "System Maintenance",
     "description": "Server maintenance and security updates",
     "icon": "FaTools",
-    "badge": "Maintenance"
+    "badge": "Maintenance",
+        "detailedContent": "# h1 Heading\n## h2 Heading\n### h3 Heading\n#### h4 Heading\n##### h5 Heading\n###### h6 Heading"
   }
 ]
